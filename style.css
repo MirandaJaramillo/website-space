@@ -1,0 +1,40 @@
+body{
+    background-color: #DD5754;
+    font-family: 'Questrial', sans-serif;
+    color: blue;
+}
+
+img{
+    width: 400px;
+    border-radius: 20px;
+}
+
+.josephine{
+    width: 200px;
+}
+
+.title-astrobiologia{
+    font-size: 40px;
+}
+
+.p-origen{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title-misiones{
+    color: aliceblue;
+}
+
+.title-universo{
+    font-size: 80px;
+}
+
+.main-title{
+    font-family: 'Ysabeau SC', sans-serif;
+    color: white;
+}
+/* 
+selector{
+    propiedad : valor ;
+} 
+*/
